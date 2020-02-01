@@ -1,11 +1,11 @@
 # Site settings
 author: Teerth Patel
-title: 
+title: Teerth's Engineering Blog
 header-img: img/home-bg.png
 email: teerth1205@gmail.com
 copyright_name: Teerth Patel
 description: > # this means to ignore newlines until "baseurl:"
-  
+  All about my journey into software engineering!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  teerth1205-sketch

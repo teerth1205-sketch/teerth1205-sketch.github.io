@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Why I Chose to Learn Software Development""
+title:      "Why I Chose to Learn Software Development"
 date:       2020-02-01 15:25:06 -0500
 permalink:  why_i_chose_to_learn_software_development
 ---

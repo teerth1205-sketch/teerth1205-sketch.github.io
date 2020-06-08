@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "ActiveStorage with some info on var, let and const!"
-date:       2020-06-08 04:12:30 +0000
+date:       2020-06-08 00:12:31 -0400
 permalink:  activestorage_with_some_info_on_var_let_and_const
 ---
 
